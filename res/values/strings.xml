@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+<string name="add">+</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="divide">/</string>
+    <string name="equals">=</string>
+    <string name="result"></string>
+    <string name="textResult">result:  </string>
+
+</resources>
